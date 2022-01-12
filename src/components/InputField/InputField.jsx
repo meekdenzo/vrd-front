@@ -1,17 +1,17 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-function scan(props) {
+function InputField(props) {
     return (
         <div>
-            
+            Testing Input field
         </div>
     )
 }
 
-scan.propTypes = {
+InputField.propTypes = {
 
 }
 
-export default scan
+export default InputField
 
